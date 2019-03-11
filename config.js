@@ -1,5 +1,5 @@
 module.exports = {
-    token: 'NTUyNDQ3MTAzNTAzNDMzNzQ5.D2fqXg.ipNIAcI-9Tx1yYS987eC5wbPBOs',
+    token: '',
     prefix: '!',
     remind: '24h',
     remindMessage: 'It is I, Squab bot! Im the attendance bot from Zephyrus guild, it looks like you havent told me if you are coming for the upcoming event! Pls go to the #guild-attendance channel to indicate whether you are coming or not pls uwu',
